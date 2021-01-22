@@ -1,2 +1,2 @@
-# Samocite.github.io  
+# samocite.github.io  
   
