@@ -12,3 +12,10 @@ menu:
 highlight_theme: mac
 
 highlight_copy: true
+
+avatar:
+  img: /img/avatar.jpg
+  effect: false # 頭像會一直轉圈
+
+social:
+  fab fa-github: https://github.com/Samocite || Github
