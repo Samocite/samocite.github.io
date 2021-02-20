@@ -104,8 +104,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  respository: git@github.com:Samocite/samocite.github.io.git
+  repo: https://github.com/Samocite/samocite.github.io
   branch: master
+  message: Update Hexo Static Content
 
 # Disqus 
 disqus:
