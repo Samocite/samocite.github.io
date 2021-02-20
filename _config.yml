@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://samocite.github.io
+url: http://Samocite.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,7 +104,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Samocite/samocite.github.io
+  repo: https://github.com/Samocite/Samocite.github.io
   branch: master
   message: Update Hexo Static Content
 
