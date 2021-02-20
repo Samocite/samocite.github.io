@@ -1,2 +1,2 @@
-# samocite.github.io  
-  
+# Samocite.github.io  
+My blog
