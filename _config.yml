@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Samocite's Blog
+title: samocite's Blog
 subtitle: ''
 description: ''
 keywords:
-author: Samocite
+author: samocite
 language: zh-CN
 timezone: ''
 
@@ -104,7 +104,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Samocite/Samocite.github.io.git
+  repo: git@github.com:samocite/samocite.github.io.git
   branch: master
   message: Update Hexo Static Content
 
